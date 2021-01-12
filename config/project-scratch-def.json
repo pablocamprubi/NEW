@@ -1,14 +1,7 @@
 {
   "orgName": "pc company",
   "edition": "Developer",
-  "features": [
-    "MultiCurrency", 
-    "AuthorApex",
-    "DevelopmentWave",
-    "WavePlatform",
-    "SustainabilityCloud",
-    "SecurityEventEnabled"
-  ],
+  "features": [],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
@@ -19,7 +12,7 @@
       }
     },
     "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
+      "enableS1EncryptedStoragePref2": true
     }
   }
 }
