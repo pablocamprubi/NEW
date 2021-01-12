@@ -2,7 +2,12 @@
   "orgName": "pc company",
   "edition": "Developer",
   "features": [
-    "MultiCurrency", "AuthorApex","DevelopmentWave","WavePlatform","SustainabilityCloud","SecurityEventEnabled"
+    "MultiCurrency", 
+    "AuthorApex",
+    "DevelopmentWave",
+    "WavePlatform",
+    "SustainabilityCloud",
+    "SecurityEventEnabled"
   ],
   "settings": {
     "lightningExperienceSettings": {
